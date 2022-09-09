@@ -6,3 +6,5 @@ def main ():
 a = true
 if a:
     print ('b')
+    
+# копия
